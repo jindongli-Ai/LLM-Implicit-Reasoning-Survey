@@ -110,7 +110,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 1. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
    [[arXiv]](https://arxiv.org/abs/2502.08524v1)
-   [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1763)
+   [[Github]](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix)
    [[HuggingFace]](https://huggingface.co/papers/2502.08524)
    [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI)
    [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
