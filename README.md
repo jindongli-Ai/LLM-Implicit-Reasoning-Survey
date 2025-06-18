@@ -24,7 +24,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[arXiv]](https://arxiv.org/abs/2312.11562)
    [[Github]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 
-2. 2024_ACL_Survey_Large Language Models for Mathematical Reasoning: Progresses and Challenges.
+2. 2024_EACL_Survey_Large Language Models for Mathematical Reasoning: Progresses and Challenges.
    [[ACL]](https://aclanthology.org/2024.eacl-srw.17/)
    [[arXiv]](https://arxiv.org/abs/2402.00157)
 
