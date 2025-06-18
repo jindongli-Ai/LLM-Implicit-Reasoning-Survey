@@ -341,18 +341,18 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
     [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-
-4. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models.
-    [[arXiv]](https://arxiv.org/abs/2411.13504)
-    [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
-
-5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
-    [[arXiv]](https://arxiv.org/abs/2502.12974)
-    [[Github]](https://github.com/OpenBMB/DEBATER)
-   
-6. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2505.10182)
-
+<!--
+    4. 2024_arXiv_Disentangling Memory and Reasoning Ability in Large Language Models.
+        [[arXiv]](https://arxiv.org/abs/2411.13504)
+        [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+    
+    5. 2025_arXiv_DEBATER_Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search.
+        [[arXiv]](https://arxiv.org/abs/2502.12974)
+        [[Github]](https://github.com/OpenBMB/DEBATER)
+       
+    6. 2025_arXiv_Reasoning CPT_Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning.
+        [[arXiv]](https://arxiv.org/abs/2505.10182)
+-->
 
 
 
