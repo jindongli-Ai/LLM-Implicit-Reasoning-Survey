@@ -115,7 +115,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[YouTube]](https://www.youtube.com/watch?v=3e-1mvDgQBI)
    [[Bilibili]](https://www.bilibili.com/video/BV1YWXGY8EPY/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
  
-2. 2025_arXiv_Enhancing Latent Computation in Transformers with Latent Tokens.
+2. 2025_arXiv_Latent Token_Enhancing Latent Computation in Transformers with Latent Tokens.
    [[arXiv]](https://arxiv.org/abs/2505.12629)
    [[HuggingFace]](https://huggingface.co/papers/2505.12629)
    [[YouTube]](https://www.youtube.com/watch?v=h4TRfadNAFI)
