@@ -303,18 +303,20 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    
 3. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
     [[arXiv]](https://arxiv.org/abs/2502.08482)
+
+4. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
+    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
+    [[arXiv]](https://arxiv.org/abs/2310.10845)
+    [[Github]](https://github.com/epfml/cotformer)
    
-4. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
+5. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
     [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
 
-5. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
-    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
-    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
-    [[arXiv]](https://arxiv.org/abs/2310.10845)
-    [[Github]](https://github.com/epfml/cotformer)
+
 
 
 
