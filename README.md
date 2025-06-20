@@ -127,9 +127,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 4. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
    [[ICML]](https://icml.cc/virtual/2025/poster/43587)
    [[arXiv]](https://arxiv.org/abs/2502.01567)
+   [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
    [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
    
-5. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+6. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
    [[ICML]](https://icml.cc/virtual/2025/poster/44409)
    [[arXiv]](https://arxiv.org/abs/2502.03275v1)
    [[HuggingFace]](https://huggingface.co/papers/2502.03275)
