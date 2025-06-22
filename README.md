@@ -106,7 +106,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### 3.1 Latent-State Reasoning Representations
 
-#### 3.1.1 Latent Tokens as Reasoning Units
+#### 3.1.1 Latent Representation Tokens as Reasoning Units
 
 1. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
    [[arXiv]](https://arxiv.org/abs/2502.08524v1)
