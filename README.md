@@ -147,7 +147,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2409.08561)
     [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
-3. 2025_ICLR_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+3. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
     [[ICLR]](https://iclr.cc/virtual/2025/32772)
     [[arXiv]](https://arxiv.org/abs/2412.06769)
     [[Github]](https://github.com/facebookresearch/coconut)
