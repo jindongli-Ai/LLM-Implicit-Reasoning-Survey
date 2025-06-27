@@ -242,7 +242,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2405.08644)
     [[HuggingFace]](https://huggingface.co/papers/2405.08644)
    
-2. 2024_CoLM_FilterTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
+2. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
     [[arXiv]](https://arxiv.org/abs/2404.15758)
     [[GitHub]](https://github.com/jacobpfau/fillertokens)
