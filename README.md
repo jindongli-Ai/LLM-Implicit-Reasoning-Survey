@@ -210,22 +210,22 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
     [[Github]](https://github.com/HKUNLP/diffusion-of-thoughts)
     [[HuggingFace]](https://huggingface.co/papers/2402.07754)
-   
-2. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2505.23648)
- 
-3. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
-    [[arXiv]](https://arxiv.org/abs/2505.10446)
-    [[HuggingFace]](https://huggingface.co/papers/2505.10446)
- 
-4. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
+
+2. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.21030)
 
-5. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
+3. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
     [[arXiv]](https://arxiv.org/abs/2503.18866)
     [[GitHub]](https://github.com/ryoungj/BoLT)
     [[HuggingFace]](https://huggingface.co/papers/2503.18866)
     [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
+   
+4. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.23648)
+ 
+5. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
+    [[arXiv]](https://arxiv.org/abs/2505.10446)
+    [[HuggingFace]](https://huggingface.co/papers/2505.10446)
  
 6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
     [[arXiv]](http://export.arxiv.org/abs/2503.22675)
