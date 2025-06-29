@@ -226,11 +226,6 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 5. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
     [[arXiv]](https://arxiv.org/abs/2505.10446)
     [[HuggingFace]](https://huggingface.co/papers/2505.10446)
- 
-6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
-    [[arXiv]](https://arxiv.org/abs/2503.22675)
-    [[HuggingFace]](https://huggingface.co/papers/2503.22675)
-    [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
 
 
 
@@ -280,8 +275,13 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
     [[Github]](https://github.com/bigai-nlco/LatentSeek)
     [[HuggingFace]](https://huggingface.co/papers/2505.13308)
+
+9. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
+    [[arXiv]](https://arxiv.org/abs/2503.22675)
+    [[HuggingFace]](https://huggingface.co/papers/2503.22675)
+    [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
     
-9. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+10. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
     [[arXiv]](https://arxiv.org/abs/2505.18962)
     [[HuggingFace]](https://huggingface.co/papers/2505.18962)
 
