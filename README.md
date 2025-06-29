@@ -228,7 +228,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2505.10446)
  
 6. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
-    [[arXiv]](http://export.arxiv.org/abs/2503.22675)
+    [[arXiv]](https://arxiv.org/abs/2503.22675)
     [[HuggingFace]](https://huggingface.co/papers/2503.22675)
     [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
 
