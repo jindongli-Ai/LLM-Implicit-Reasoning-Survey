@@ -382,8 +382,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 3. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
     [[ACL]](https://aclanthology.org/2024.acl-long.550/)
     [[arXiv]](https://arxiv.org/abs/2402.16837)
+    [[Github]](https://github.com/google-deepmind/latent-multi-hop-reasoning)
+    [[HuggingFace]](https://huggingface.co/datasets/soheeyang/TwoHopFact)
    
-4. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
+5. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
     [[arXiv]](https://arxiv.org/abs/2505.14530)
     [[GitHub]](https://github.com/yzp11/internal-chain-of-thought)
    
