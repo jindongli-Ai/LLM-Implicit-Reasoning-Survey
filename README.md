@@ -374,7 +374,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/sashayd/mat)
     [[HuggingFace]](https://huggingface.co/papers/2303.09435)
     
-2. 2024_arXiv_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
+2. 2024_arXiv_Distributional Reasoning_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
     [[arXiv]](https://arxiv.org/abs/2406.13858)
     [[YouTube 1]](https://www.youtube.com/watch?v=tFcz-aTBqG0)
     [[YouTbue 2]](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
