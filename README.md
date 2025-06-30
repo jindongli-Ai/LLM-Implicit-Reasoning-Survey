@@ -377,7 +377,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 2. 2024_arXiv_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
     [[arXiv]](https://arxiv.org/abs/2406.13858)
     [[YouTube 1]](https://www.youtube.com/watch?v=tFcz-aTBqG0)
-    [[]YouTbue 2](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
+    [[YouTbue 2]](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
    
 3. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
     [[ACL]](https://aclanthology.org/2024.acl-long.550/)
