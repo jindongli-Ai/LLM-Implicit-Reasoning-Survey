@@ -384,20 +384,21 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2402.16837)
     [[Github]](https://github.com/google-deepmind/latent-multi-hop-reasoning)
     [[HuggingFace]](https://huggingface.co/datasets/soheeyang/TwoHopFact)
-   
-5. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
-    [[arXiv]](https://arxiv.org/abs/2505.14530)
-    [[GitHub]](https://github.com/yzp11/internal-chain-of-thought)
-   
-6. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
+
+4. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
     [[arXiv]](https://arxiv.org/abs/2503.07604)
     [[Github]](https://github.com/TianheL/LM-Implicit-Reasoning)
     [[HuggingFace]](https://huggingface.co/papers/2503.07604)
    
-7. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
+5. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
+    [[arXiv]](https://arxiv.org/abs/2505.14530)
+    [[GitHub]](https://github.com/yzp11/internal-chain-of-thought)
+
+   
+6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
     [[arXiv]](https://arxiv.org/abs/2505.12514)
     
-8. 2025_ICLR_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
+7. 2025_ICLR_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
     [[ICLR--OpenReview]](https://openreview.net/forum?id=w6nlcS8Kkn)
     [[arXiv]](https://arxiv.org/abs/2505.19245)
 
