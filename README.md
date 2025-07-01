@@ -398,10 +398,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
     [[arXiv]](https://arxiv.org/abs/2505.12514)
     
-7. 2025_ICLR_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
-    [[ICLR--OpenReview]](https://openreview.net/forum?id=w6nlcS8Kkn)
+7. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2505.19245)
-
 
 
 
