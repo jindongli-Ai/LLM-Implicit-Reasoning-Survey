@@ -461,7 +461,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[ICLR Workshop]](https://iclr.cc/virtual/2025/33087)
     [[arXiv]](https://arxiv.org/abs/2409.14026)
    
-7. 2025_ICLR_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+7. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28606)
     [[arXiv]](https://arxiv.org/abs/2410.13640)
     [[Github]](https://github.com/Alsace08/Chain-of-Embedding)
