@@ -38,7 +38,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 5. 2025_arXiv_Survey_From System 1 to System 2: A Survey of Reasoning Large Language Models.
     [[arXiv]](https://arxiv.org/abs/2502.17419)
-    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
+    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)  
 
 ### Efficient Reasoning
 
@@ -66,7 +66,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2505.16782)
     [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
-
+7. 2025_arXiv_Survey_A Survey on Latent Reasoning。
+   [[arXiv]](https://arxiv.org/pdf/2507.06203v1)
+   [[Github]](https://github.com/multimodal-art-projection/LatentCoT-Horizon/)
 
 
 
