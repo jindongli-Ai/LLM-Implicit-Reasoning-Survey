@@ -66,7 +66,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2505.16782)
     [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
-7. 2025_arXiv_Survey_A Survey on Latent Reasoning。
+7. 2025_arXiv_Survey_A Survey on Latent Reasoning.
    [[arXiv]](https://arxiv.org/pdf/2507.06203v1)
    [[Github]](https://github.com/multimodal-art-projection/LatentCoT-Horizon/)
 
