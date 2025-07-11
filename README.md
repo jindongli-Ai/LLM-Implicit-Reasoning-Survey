@@ -413,18 +413,18 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2411.15862)
     [[GitHub]](https://github.com/yuyijiong/if_step_by_step_implicit_cot)
    
-3. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
+2. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/504fa7e518da9d1b53a233ed20a38b46-Abstract-Conference.html)
     [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3737916.3739357)
     [[arXiv]](https://arxiv.org/abs/2411.01855v1)
     [[Github]](https://github.com/tengxiaoliu/LM_skip)
     [[HuggingFace]](https://huggingface.co/papers/2411.01855)
    
-4. 2024_arXiv_TTT_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
+3. 2024_arXiv_TTT_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
     [[arXiv]](https://arxiv.org/abs/2412.01113)
     [[GitHub]](https://github.com/keitokudo/TTT)
    
-6. 2024_NeurIPS_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
+4. 2024_NeurIPS_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
     [[ICML Workshop--OpenReview]](https://openreview.net/forum?id=ns8IH5Sn5y)
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ad217e0c7fecc71bdf48660ad6714b07-Abstract-Conference.html)
     [[arXiv]](https://arxiv.org/abs/2405.15071)
@@ -432,10 +432,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2405.15071)
     [[YouTube]](https://www.youtube.com/watch?v=qYcLhPnPezU)
    
-7. 2025_Anthropic_On the Biology of Large Language Model.
-    [[Anthropic]](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
-    [[YouTube]](https://www.youtube.com/watch?v=mU3g2YPKlsA)
-   
+
 
 
 
