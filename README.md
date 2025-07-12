@@ -38,7 +38,11 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 5. 2025_arXiv_Survey_From System 1 to System 2: A Survey of Reasoning Large Language Models.
     [[arXiv]](https://arxiv.org/abs/2502.17419)
-    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)  
+    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
+
+6. 2025_arXiv_Survey_Thinking with Images for Multimodal Reasoning= Foundations, Methods, and Future Frontiers
+    [[arXiv]](https://arxiv.org/abs/2506.23918)
+    [[Github]](https://github.com/zhaochen0110/Awesome_Think_With_Images)
 
 ### Efficient Reasoning
 
