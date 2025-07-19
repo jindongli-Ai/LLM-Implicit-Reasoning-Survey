@@ -110,9 +110,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ## 3. Technical Paradigms for Implicit Reasoning
 
-### 3.1 Latent-State Reasoning Representations
+### 3.1 Latent State Optimization
 
-#### 3.1.1 Latent Representation Tokens as Reasoning Units
+#### 3.1.1 Token-Level
 
 1. 2025_arXiv_CoCoMix_LLM Pretraining with Continuous Concepts.
    [[arXiv]](https://arxiv.org/abs/2502.08524v1)
@@ -130,11 +130,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[ICML]](https://icml.cc/virtual/2025/poster/44849)
    [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
-4. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
-   [[ICML]](https://icml.cc/virtual/2025/poster/43587)
-   [[arXiv]](https://arxiv.org/abs/2502.01567)
-   [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
-   [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
+
    
 6. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
    [[ICML]](https://icml.cc/virtual/2025/poster/44409)
@@ -143,7 +139,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.2 Trajectory-Based Latent Reasoning
+#### 3.1.2 Trajectory-Level
 
 1. 2024_arXiv_CCoT_Compressed Chain of Thought: Efficient Reasoning through Dense Representations.
     [[arXiv]](https://arxiv.org/abs/2412.13171)
@@ -208,7 +204,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.3 Non-Sequential Latent Reasoning (Diffusion / Memory)
+#### 3.1.3 Embedding-Level
 
 1. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
@@ -233,11 +229,15 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2505.10446)
     [[HuggingFace]](https://huggingface.co/papers/2505.10446)
 
+4. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+   [[ICML]](https://icml.cc/virtual/2025/poster/43587)
+   [[arXiv]](https://arxiv.org/abs/2502.01567)
+   [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
+   [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
 
 
 
-
-### 3.2 Control-Driven Implicit Reasoning
+### 3.2 Token-Guided Control
 
 1. 2024_arXiv_Thinking Tokens for Language Modeling.
     [[arXiv]](https://arxiv.org/abs/2405.08644)
@@ -294,7 +294,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-### 3.3 Recursive / Layer-Wise Reasoning Execution
+### 3.3 Layer-Recurrent Execution
 
    
 1. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
@@ -411,7 +411,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-### 4.2 Behavioral Signatures of Implicit Reasoning
+### 4.2 Behavioral Signatures
 
 1. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
     [[arXiv]](https://arxiv.org/abs/2411.15862)
@@ -442,7 +442,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-### 4.3 Representation-Based Probing of Reasoning
+### 4.3 Representation-Based Probing
 
 1. 2023_EMNLP_MechanisticProbe_Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models.
     [[EMNLP]](https://aclanthology.org/2023.emnlp-main.299/)
