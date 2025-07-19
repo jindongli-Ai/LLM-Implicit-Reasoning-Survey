@@ -65,12 +65,16 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 5. 2025_arXiv_Survey_Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.
     [[arXiv]](https://arxiv.org/abs/2503.16419)
     [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+
+
+   
+### Latent Reasoning
  
-6. 2025_arXiv_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning.
+1. 2025_arXiv_Survey_Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.16782)
     [[Github]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
-7. 2025_arXiv_Survey_A Survey on Latent Reasoning.
+2. 2025_arXiv_Survey_A Survey on Latent Reasoning.
    [[arXiv]](https://arxiv.org/pdf/2507.06203v1)
    [[Github]](https://github.com/multimodal-art-projection/LatentCoT-Horizon/)
 
