@@ -254,15 +254,15 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 5. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.21030)
 
-6. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+6. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+    [[arXiv]](https://arxiv.org/abs/2505.18962)
+    [[HuggingFace]](https://huggingface.co/papers/2505.18962)
+
+7. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
    [[ICML]](https://icml.cc/virtual/2025/poster/43587)
    [[arXiv]](https://arxiv.org/abs/2502.01567)
    [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
    [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
-
-7. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
-    [[arXiv]](https://arxiv.org/abs/2505.18962)
-    [[HuggingFace]](https://huggingface.co/papers/2505.18962)
 
 
 
@@ -270,9 +270,16 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### 3.2 Token-Guided Control
 
-1. 2024_arXiv_Thinking Tokens for Language Modeling.
+1. 2024_arXiv_thinking-tokens_Thinking Tokens for Language Modeling.
     [[arXiv]](https://arxiv.org/abs/2405.08644)
     [[HuggingFace]](https://huggingface.co/papers/2405.08644)
+
+2. 2024_ICLR_pause-token_Think Before You Speak: Training Language Models with Pause Tokens.
+    [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
+    [[arXiv]](https://arxiv.org/abs/2310.02226)
+    [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1072)
+    [[HuggingFace]](https://huggingface.co/papers/2310.02226)
+    [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
    
 2. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
@@ -281,7 +288,14 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2404.15758)
     [[YouTube]](https://www.youtube.com/watch?v=AIR9QduDqD8)
 
-4. 2024_CoLM_Guiding Language Model Reasoning with Planning Tokens.
+8. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
+    [[arXiv]](https://arxiv.org/abs/2505.13308v1)
+    [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
+    [[Github]](https://github.com/bigai-nlco/LatentSeek)
+    [[HuggingFace]](https://huggingface.co/papers/2505.13308)
+
+
+4. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
     [[arXiv]](https://arxiv.org/abs/2310.05707)
     [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
@@ -295,23 +309,13 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2403.09629)
     [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
-6. 2024_ICLR_Think Before You Speak: Training Language Models with Pause Tokens.
-    [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
-    [[arXiv]](https://arxiv.org/abs/2310.02226)
-    [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1072)
-    [[HuggingFace]](https://huggingface.co/papers/2310.02226)
-    [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
 
 7. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
     [[arXiv]](https://arxiv.org/abs/2505.18454)
     [[Github]](https://github.com/skywalker-hub/HRPO1)
     [[HuggingFace]](https://huggingface.co/papers/2505.18454)
     
-8. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
-    [[arXiv]](https://arxiv.org/abs/2505.13308v1)
-    [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
-    [[Github]](https://github.com/bigai-nlco/LatentSeek)
-    [[HuggingFace]](https://huggingface.co/papers/2505.13308)
+
 
 
     
@@ -319,43 +323,50 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### 3.3 Layer-Recurrent Execution
 
-   
-1. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
-    [[arXiv]](https://arxiv.org/abs/2502.05171)
-    [[HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
-    [[Github]](https://github.com/seal-rg/recurrent-pretraining)
-    [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
-2. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
+1. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
     [[arXiv]](https://arxiv.org/abs/2502.13842)
     [[HuggingFace]](https://huggingface.co/papers/2502.13842)
     [[YouTube]](https://www.youtube.com/watch?v=drbIAHOJiDc)
-   
-3. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2502.08482)
-    [[GitHub]](https://github.com/qifanyu/RELAY)
 
-5. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
-    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
-    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
-    [[arXiv]](https://arxiv.org/abs/2310.10845)
-    [[Github]](https://github.com/epfml/cotformer)
-   
-6. 2025_ICLR_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
+
+2. 2025_ICLR_looped-Transformer_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
     [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
 
 
+3. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
+    [[NeurIPS Workshop]](https://openreview.net/pdf?id=rBgo4Mi8vZ)
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/30808)
+    [[arXiv]](https://arxiv.org/abs/2310.10845)
+    [[Github]](https://github.com/epfml/cotformer)
 
+   
+4. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
+    [[arXiv]](https://arxiv.org/abs/2502.05171)
+    [[HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
+    [[Github]](https://github.com/seal-rg/recurrent-pretraining)
+    [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
-
-
-
+   
+5. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2502.08482)
+    [[GitHub]](https://github.com/qifanyu/RELAY)
 
 
    
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
