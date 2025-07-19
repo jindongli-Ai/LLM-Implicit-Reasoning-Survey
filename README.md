@@ -221,7 +221,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2505.10446)
     [[HuggingFace]](https://huggingface.co/papers/2505.10446)
 
-
+15. 2024_arxiv_LaTRO_Unlocking Latent Reasoning Capabilities via Self-Rewarding.
+    [[arXiv]](https://arxiv.org/abs/2411.04282)
+    [[Github]](https://github.com/SalesforceAIResearch/LaTRO)
+    [[HuggingFace]](https://huggingface.co/papers/2411.04282)
 
 
 
