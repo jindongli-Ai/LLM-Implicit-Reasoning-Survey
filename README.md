@@ -130,9 +130,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[ICML]](https://icml.cc/virtual/2025/poster/44849)
    [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
-
+4. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2505.23648)
    
-6. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+5. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
    [[ICML]](https://icml.cc/virtual/2025/poster/44409)
    [[arXiv]](https://arxiv.org/abs/2502.03275v1)
    [[HuggingFace]](https://huggingface.co/papers/2502.03275)
@@ -149,32 +150,32 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2409.08561)
     [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
-3. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
-    [[ICLR]](https://iclr.cc/virtual/2025/32772)
-    [[arXiv]](https://arxiv.org/abs/2412.06769)
-    [[Github]](https://github.com/facebookresearch/coconut)
-    [[HuggingFace]](https://huggingface.co/papers/2412.06769)
-    [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
-
-4. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
+3. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
     [[arXiv]](https://arxiv.org/abs/2502.09601)
     [[Code--Github]](https://github.com/horseee/CoT-Valve)
 
-5. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
+4. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
     [[arXiv]](https://arxiv.org/abs/2502.21074)
     [[HuggingFace]](https://huggingface.co/papers/2502.21074)
 
-6. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
+5. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
     [[arXiv]](https://arxiv.org/abs/2501.19201)
     [[Code--Github]](https://github.com/shawnricecake/Heima)
     [[HuggingFace]](https://huggingface.co/papers/2501.19201)
     [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
-7. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
+6. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
     [[arXiv]](https://arxiv.org/abs/2502.15589)
     [[Code--Github]](https://github.com/zjunlp/LightThinker)
     [[HuggingFace]](https://huggingface.co/papers/2502.15589)
     [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
+
+7. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+    [[ICLR]](https://iclr.cc/virtual/2025/32772)
+    [[arXiv]](https://arxiv.org/abs/2412.06769)
+    [[Github]](https://github.com/facebookresearch/coconut)
+    [[HuggingFace]](https://huggingface.co/papers/2412.06769)
+    [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
 8. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
     [[arXiv]](https://arxiv.org/abs/2505.20674)
@@ -199,6 +200,22 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
+12. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
+    [[arXiv]](https://arxiv.org/abs/2503.18866)
+    [[GitHub]](https://github.com/ryoungj/BoLT)
+    [[HuggingFace]](https://huggingface.co/papers/2503.18866)
+    [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
+
+13. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
+    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
+    [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3737916.3741259)
+    [[arXiv]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
+    [[Github]](https://github.com/HKUNLP/diffusion-of-thoughts)
+    [[HuggingFace]](https://huggingface.co/papers/2402.07754)
+
+14. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
+    [[arXiv]](https://arxiv.org/abs/2505.10446)
+    [[HuggingFace]](https://huggingface.co/papers/2505.10446)
 
 
 
@@ -206,34 +223,44 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 #### 3.1.3 Embedding-Level
 
-1. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
-    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
-    [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3737916.3741259)
-    [[arXiv]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
-    [[Github]](https://github.com/HKUNLP/diffusion-of-thoughts)
-    [[HuggingFace]](https://huggingface.co/papers/2402.07754)
+1. 2023_arXiv_ICoT-KD_Implicit Chain of Thought Reasoning via Knowledge Distillation.
+    [[arXiv]](https://arxiv.org/abs/2311.01460)
+    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/implicit-chain-of-thought-reasoning-via-knowledge-distillation/)
+    [[Github]](https://github.com/da03/implicit_chain_of_thought)
+    [[HuggingFace]](https://huggingface.co/papers/2311.01460)
+    [[YouTube]](https://www.youtube.com/watch?v=DDygkRmcxIk)
 
-2. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
+2. 2024_NeurIPS Workshop_Distilling System 2 into System 1.
+    [[NeurIPS Workshop]](https://neurips.cc/virtual/2024/104303)
+    [[arXiv]](https://arxiv.org/abs/2407.06023)
+    [[YouTube]](https://www.youtube.com/watch?v=741gC9U9nW4)
+
+3. 2024_arXiv_ICoT-SI_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
+    [[arXiv]](https://arxiv.org/abs/2405.14838)
+    [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
+    [[HuggingFace]](https://huggingface.co/papers/2405.14838)
+    [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
+    [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
+
+4. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
+    [[arXiv]](https://arxiv.org/abs/2503.22675)
+    [[HuggingFace]](https://huggingface.co/papers/2503.22675)
+    [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
+
+5. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.21030)
 
-3. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
-    [[arXiv]](https://arxiv.org/abs/2503.18866)
-    [[GitHub]](https://github.com/ryoungj/BoLT)
-    [[HuggingFace]](https://huggingface.co/papers/2503.18866)
-    [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
-   
-4. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2505.23648)
- 
-5. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
-    [[arXiv]](https://arxiv.org/abs/2505.10446)
-    [[HuggingFace]](https://huggingface.co/papers/2505.10446)
-
-4. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+6. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
    [[ICML]](https://icml.cc/virtual/2025/poster/43587)
    [[arXiv]](https://arxiv.org/abs/2502.01567)
    [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
    [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
+
+7. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+    [[arXiv]](https://arxiv.org/abs/2505.18962)
+    [[HuggingFace]](https://huggingface.co/papers/2505.18962)
+
+
 
 
 
@@ -282,16 +309,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/bigai-nlco/LatentSeek)
     [[HuggingFace]](https://huggingface.co/papers/2505.13308)
 
-9. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
-    [[arXiv]](https://arxiv.org/abs/2503.22675)
-    [[HuggingFace]](https://huggingface.co/papers/2503.22675)
-    [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
+
     
-10. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
-    [[arXiv]](https://arxiv.org/abs/2505.18962)
-    [[HuggingFace]](https://huggingface.co/papers/2505.18962)
-
-
 
 
 ### 3.3 Layer-Recurrent Execution
@@ -330,26 +349,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-### 3.4 Implicit Reasoning via Pretraining or Distillation
 
-1. 2023_arXiv_ICoT-KD_Implicit Chain of Thought Reasoning via Knowledge Distillation.
-    [[arXiv]](https://arxiv.org/abs/2311.01460)
-    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/implicit-chain-of-thought-reasoning-via-knowledge-distillation/)
-    [[Github]](https://github.com/da03/implicit_chain_of_thought)
-    [[HuggingFace]](https://huggingface.co/papers/2311.01460)
-    [[YouTube]](https://www.youtube.com/watch?v=DDygkRmcxIk)
 
-2. 2024_arXiv_ICoT-SI_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
-    [[arXiv]](https://arxiv.org/abs/2405.14838)
-    [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
-    [[HuggingFace]](https://huggingface.co/papers/2405.14838)
-    [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
-    [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
-
-3. 2024_NeurIPS Workshop_Distilling System 2 into System 1.
-    [[NeurIPS Workshop]](https://neurips.cc/virtual/2024/104303)
-    [[arXiv]](https://arxiv.org/abs/2407.06023)
-    [[YouTube]](https://www.youtube.com/watch?v=741gC9U9nW4)
    
 
 
