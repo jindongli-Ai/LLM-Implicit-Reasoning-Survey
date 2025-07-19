@@ -290,28 +290,33 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2310.02226)
     [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
    
-2. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
+3. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
     [[arXiv]](https://arxiv.org/abs/2404.15758)
     [[GitHub]](https://github.com/jacobpfau/fillertokens)
     [[HuggingFace]](https://huggingface.co/papers/2404.15758)
     [[YouTube]](https://www.youtube.com/watch?v=AIR9QduDqD8)
 
-8. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
+4. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
     [[arXiv]](https://arxiv.org/abs/2505.13308v1)
     [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
     [[Github]](https://github.com/bigai-nlco/LatentSeek)
     [[HuggingFace]](https://huggingface.co/papers/2505.13308)
 
 
-4. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
+5. 2025_ACL_DIT_Learning to Insert [PAUSE] Tokens for Better Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2506.03616)
+    [[Github]](https://github.com/xfactlab/acl2025-dit)
+
+
+6. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
     [[arXiv]](https://arxiv.org/abs/2310.05707)
     [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
     [[Github]](https://github.com/WANGXinyiLinda/planning_tokens)
     
 
-5. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+7. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=oRXPiSOGH9#discussion)
     [[arXiv]](https://arxiv.org/abs/2403.09629)
     [[Github]](https://github.com/ezelikman/quiet-star)
@@ -319,7 +324,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
 
-7. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
+8. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
     [[arXiv]](https://arxiv.org/abs/2505.18454)
     [[Github]](https://github.com/skywalker-hub/HRPO1)
     [[HuggingFace]](https://huggingface.co/papers/2505.18454)
