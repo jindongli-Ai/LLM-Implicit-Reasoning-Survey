@@ -173,30 +173,29 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2501.19201)
     [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
-7. 2025_arXiv_CoLaR_Think-Silently-Think-Fast=Dynamic-Latent-Compression-of-LLM-Reasoning-Chains.
-   [[arXiv]](https://arxiv.org/abs/2505.16552)
-   [[Homepage]](https://colar-latent-reasoning.github.io/)
-   [[Github]](https://github.com/xiaomi-research/colar)
-
-
-9. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
+7. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
     [[arXiv]](https://arxiv.org/abs/2502.15589)
     [[Code--Github]](https://github.com/zjunlp/LightThinker)
     [[HuggingFace]](https://huggingface.co/papers/2502.15589)
     [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
 
-10. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+8. 2025_arXiv_CoLaR_Think-Silently-Think-Fast=Dynamic-Latent-Compression-of-LLM-Reasoning-Chains.
+   [[arXiv]](https://arxiv.org/abs/2505.16552)
+   [[Homepage]](https://colar-latent-reasoning.github.io/)
+   [[Github]](https://github.com/xiaomi-research/colar)
+
+9. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
     [[ICLR]](https://iclr.cc/virtual/2025/32772)
     [[arXiv]](https://arxiv.org/abs/2412.06769)
     [[Github]](https://github.com/facebookresearch/coconut)
     [[HuggingFace]](https://huggingface.co/papers/2412.06769)
     [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
 
-11. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
+10. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
     [[arXiv]](https://arxiv.org/abs/2505.20674)
     [[Github]](https://github.com/LUMIA-Group/PonderingLM)
 
-12. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
+11. 2025_arXiv_Soft Thinking_Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.
     [[arXiv]](https://arxiv.org/abs/2505.15778v1)
     [[HomePage]](https://soft-thinking.github.io/)
     [[Github]](https://github.com/eric-ai-lab/Soft-Thinking)
@@ -204,31 +203,31 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=dgNut1AOadQ)
     [[Bilibili]](https://www.bilibili.com/video/BV1UvjzzSEKU/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-13. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+12. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.12134)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2502.12134)
     [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
-14. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+13. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.11484)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-15. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
+14. 2025_arXiv_BoLT_Reasoning to Learn from Latent Thoughts.
     [[arXiv]](https://arxiv.org/abs/2503.18866)
     [[GitHub]](https://github.com/ryoungj/BoLT)
     [[HuggingFace]](https://huggingface.co/papers/2503.18866)
     [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
 
-16. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
+15. 2024_NeruIPS_DoT_Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models.
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
     [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3737916.3741259)
     [[arXiv]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be30024e7fa2c29cac7a6dafcbb8571f-Abstract-Conference.html)
     [[Github]](https://github.com/HKUNLP/diffusion-of-thoughts)
     [[HuggingFace]](https://huggingface.co/papers/2402.07754)
 
-17. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
+16. 2025_arXiv_DCoLT_Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models.
     [[arXiv]](https://arxiv.org/abs/2505.10446)
     [[HuggingFace]](https://huggingface.co/papers/2505.10446)
 
