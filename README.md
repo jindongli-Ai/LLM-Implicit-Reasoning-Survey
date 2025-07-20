@@ -330,8 +330,14 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[HuggingFace]](https://huggingface.co/papers/2505.18454)
     
 
+9. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
+    [[arXiv]](https://arxiv.org/abs/2411.13504)
+    [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
+11. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
+    [[arXiv]](https://arxiv.org/abs/2505.13379)
+    [[Github]](https://github.com/VainF/Thinkless)
     
 
 
