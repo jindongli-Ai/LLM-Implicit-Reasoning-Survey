@@ -451,9 +451,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ### 4.2 Behavioral Signatures
 
-1. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2411.15862)
-    [[GitHub]](https://github.com/yuyijiong/if_step_by_step_implicit_cot)
+1. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
+    [[arXiv]](https://arxiv.org/abs/2504.10615)
+    [[HuggingFace]](https://huggingface.co/papers/2504.10615)
    
 2. 2024_NeurIPS_Can Language Models Learn to Skip Steps.
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/504fa7e518da9d1b53a233ed20a38b46-Abstract-Conference.html)
@@ -487,22 +487,22 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2310.14491)
     [[Github]](https://github.com/yifan-h/mechanisticprobe)
     [[HuggingFace]](https://huggingface.co/papers/2310.14491)
+
+2. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2411.15862)
+    [[GitHub]](https://github.com/yuyijiong/if_step_by_step_implicit_cot)
    
-2. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
+3. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
     [[ACL]](https://aclanthology.org/2024.findings-acl.242/)
     [[arXiv]](https://arxiv.org/abs/2402.11917v3)
     [[GitHub]](https://github.com/abhay-sheshadri/backward-chaining-circuits)
     [[HuggingFace]](https://huggingface.co/papers/2402.11917)
    
-4. 2025_arXiv_Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models.
-    [[arXiv]](https://arxiv.org/abs/2504.10615)
-    [[HuggingFace]](https://huggingface.co/papers/2504.10615)
-   
-5. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
+4. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
     [[ICLR Workshop]](https://iclr.cc/virtual/2025/33087)
     [[arXiv]](https://arxiv.org/abs/2409.14026)
    
-7. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+5. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28606)
     [[arXiv]](https://arxiv.org/abs/2410.13640)
     [[Github]](https://github.com/Alsace08/Chain-of-Embedding)
