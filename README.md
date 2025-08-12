@@ -135,9 +135,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[arXiv]](https://arxiv.org/abs/2505.04993v1)
    
 4. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2505.23648)
+   [[arXiv]](https://arxiv.org/abs/2505.23648)
+   [[HuggingFace]](https://huggingface.co/papers/2505.23648)
    
-5. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
+6. 2025_ICML_Token Assorted_Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning.
    [[ICML]](https://icml.cc/virtual/2025/poster/44409)
    [[arXiv]](https://arxiv.org/abs/2502.03275v1)
    [[HuggingFace]](https://huggingface.co/papers/2502.03275)
