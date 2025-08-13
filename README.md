@@ -426,32 +426,21 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2303.09435)
     [[Github]](https://github.com/sashayd/mat)
     [[HuggingFace]](https://huggingface.co/papers/2303.09435)
-    
-2. 2024_arXiv_Distributional Reasoning_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2406.13858)
-    [[YouTube 1]](https://www.youtube.com/watch?v=tFcz-aTBqG0)
-    [[YouTbue 2]](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
-   
-3. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
-    [[ACL]](https://aclanthology.org/2024.acl-long.550/)
-    [[arXiv]](https://arxiv.org/abs/2402.16837)
-    [[Github]](https://github.com/google-deepmind/latent-multi-hop-reasoning)
-    [[HuggingFace]](https://huggingface.co/datasets/soheeyang/TwoHopFact)
 
-4. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
+2. 2025_arXiv_Implicit Reasoning in Transformers is Reasoning through Shortcuts.
     [[arXiv]](https://arxiv.org/abs/2503.07604)
     [[Github]](https://github.com/TianheL/LM-Implicit-Reasoning)
     [[HuggingFace]](https://huggingface.co/papers/2503.07604)
    
-5. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
+3. 2025_arXiv_Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs.
     [[arXiv]](https://arxiv.org/abs/2505.14530)
     [[GitHub]](https://github.com/yzp11/internal-chain-of-thought)
 
    
-6. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
+4. 2025_arXiv_Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought.
     [[arXiv]](https://arxiv.org/abs/2505.12514)
     
-7. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
+5. 2025_arXiv_To CoT or To Loop: A Formal Comparison Between Chain-of-Thought and Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2505.19245)
 
 
@@ -499,18 +488,29 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 2. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
     [[arXiv]](https://arxiv.org/abs/2411.15862)
     [[GitHub]](https://github.com/yuyijiong/if_step_by_step_implicit_cot)
+
+3. 2024_arXiv_Distributional Reasoning_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2406.13858)
+    [[YouTube 1]](https://www.youtube.com/watch?v=tFcz-aTBqG0)
+    [[YouTbue 2]](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
    
-3. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
+4. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
+    [[ACL]](https://aclanthology.org/2024.acl-long.550/)
+    [[arXiv]](https://arxiv.org/abs/2402.16837)
+    [[Github]](https://github.com/google-deepmind/latent-multi-hop-reasoning)
+    [[HuggingFace]](https://huggingface.co/datasets/soheeyang/TwoHopFact)
+   
+5. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
     [[ACL]](https://aclanthology.org/2024.findings-acl.242/)
     [[arXiv]](https://arxiv.org/abs/2402.11917v3)
     [[GitHub]](https://github.com/abhay-sheshadri/backward-chaining-circuits)
     [[HuggingFace]](https://huggingface.co/papers/2402.11917)
    
-4. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
+6. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
     [[ICLR Workshop]](https://iclr.cc/virtual/2025/33087)
     [[arXiv]](https://arxiv.org/abs/2409.14026)
    
-5. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+7. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28606)
     [[arXiv]](https://arxiv.org/abs/2410.13640)
     [[Github]](https://github.com/Alsace08/Chain-of-Embedding)
