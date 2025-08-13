@@ -63,8 +63,8 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[Github]](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
  
 5. 2025_arXiv_Survey_Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.
-    [[arXiv]](https://arxiv.org/abs/2503.16419)
-    [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+   [[arXiv]](https://arxiv.org/abs/2503.16419)
+   [[Github]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
 
 
    
@@ -262,17 +262,18 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 4. 2025_arXiv_ReaRec_Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation.
     [[arXiv]](https://arxiv.org/abs/2503.22675)
+    [[GitHub]](https://github.com/TangJiakai/ReaRec)
     [[HuggingFace]](https://huggingface.co/papers/2503.22675)
     [[YouTube]](https://www.youtube.com/watch?v=5i7qDcXeStU)
 
-5. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
+6. 2025_arXiv_Beyond Words_Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.21030)
 
-6. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
+7. 2025_arXiv_System-1.5 Reasoning_System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.
     [[arXiv]](https://arxiv.org/abs/2505.18962)
     [[HuggingFace]](https://huggingface.co/papers/2505.18962)
 
-7. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
+8. 2025_ICML_LTMs_Scalable Language Models with Posterior Inference of Latent Thought Vectors.
    [[ICML]](https://icml.cc/virtual/2025/poster/43587)
    [[arXiv]](https://arxiv.org/abs/2502.01567)
    [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
