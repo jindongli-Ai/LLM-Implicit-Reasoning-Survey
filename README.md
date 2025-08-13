@@ -239,7 +239,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.3 Embedding-Level
+#### 3.1.3 State-Level
 
 1. 2023_arXiv_ICoT-KD_Implicit Chain of Thought Reasoning via Knowledge Distillation.
     [[arXiv]](https://arxiv.org/abs/2311.01460)
@@ -282,7 +282,9 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-### 3.2 Token-Guided Control
+### 3.2 Signal-Guided Control
+
+#### 3.2.1 Single-Type Signal
 
 1. 2024_arXiv_thinking-tokens_Thinking Tokens for Language Modeling.
     [[arXiv]](https://arxiv.org/abs/2405.08644)
@@ -314,14 +316,17 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/xfactlab/acl2025-dit)
 
 
-6. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
+#### 3.2.2 Multi-Type Signal
+
+
+1. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
     [[arXiv]](https://arxiv.org/abs/2310.05707)
     [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
     [[Github]](https://github.com/WANGXinyiLinda/planning_tokens)
     
 
-7. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+2. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=oRXPiSOGH9#discussion)
     [[arXiv]](https://arxiv.org/abs/2403.09629)
     [[Github]](https://github.com/ezelikman/quiet-star)
@@ -329,18 +334,18 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
 
-8. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
+3. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
     [[arXiv]](https://arxiv.org/abs/2505.18454)
     [[Github]](https://github.com/skywalker-hub/HRPO1)
     [[HuggingFace]](https://huggingface.co/papers/2505.18454)
     
 
-9. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
+4. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
     [[arXiv]](https://arxiv.org/abs/2411.13504)
     [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
-11. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
+5. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
     [[arXiv]](https://arxiv.org/abs/2505.13379)
     [[Github]](https://github.com/VainF/Thinkless)
     
