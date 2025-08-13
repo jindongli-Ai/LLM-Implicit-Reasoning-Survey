@@ -294,7 +294,6 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 2. 2024_ICLR_pause-token_Think Before You Speak: Training Language Models with Pause Tokens.
     [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
     [[arXiv]](https://arxiv.org/abs/2310.02226)
-    [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/1072)
     [[HuggingFace]](https://huggingface.co/papers/2310.02226)
     [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
    
