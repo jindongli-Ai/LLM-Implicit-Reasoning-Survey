@@ -114,7 +114,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 ## 3. Technical Paradigms for Implicit Reasoning
 
-### 3.1 Latent State Optimization
+### 3.1 Latent Optimization
 
 #### 3.1.1 Token-Level
 
