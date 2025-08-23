@@ -279,7 +279,10 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
    [[Homepage]](https://deqiankong.github.io/blogs/ltm/)
    [[HuggingFace]](https://huggingface.co/papers/2502.01567)   
 
-
+7. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
+    [[arXiv]](https://arxiv.org/abs/2505.18454)
+    [[Github]](https://github.com/skywalker-hub/HRPO1)
+    [[HuggingFace]](https://huggingface.co/papers/2505.18454)
 
 
 
@@ -332,18 +335,12 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
 
-2. 2025_arXiv_HRPO_Hybrid Latent Reasoning via Reinforcement Learning.
-    [[arXiv]](https://arxiv.org/abs/2505.18454)
-    [[Github]](https://github.com/skywalker-hub/HRPO1)
-    [[HuggingFace]](https://huggingface.co/papers/2505.18454)
-    
-
-3. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
+2. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
     [[arXiv]](https://arxiv.org/abs/2411.13504)
     [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
-4. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
+3. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
     [[arXiv]](https://arxiv.org/abs/2505.13379)
     [[Github]](https://github.com/VainF/Thinkless)
     
