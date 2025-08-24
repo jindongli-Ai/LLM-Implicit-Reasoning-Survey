@@ -294,53 +294,57 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2405.08644)
     [[HuggingFace]](https://huggingface.co/papers/2405.08644)
 
+
 2. 2024_ICLR_pause-token_Think Before You Speak: Training Language Models with Pause Tokens.
     [[ICLR]](https://iclr.cc/virtual/2024/poster/17771)
     [[arXiv]](https://arxiv.org/abs/2310.02226)
     [[HuggingFace]](https://huggingface.co/papers/2310.02226)
     [[YouTube]](https://www.youtube.com/watch?v=MtJ1jacr_yI)
-   
-3. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
-    [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
-    [[arXiv]](https://arxiv.org/abs/2404.15758)
-    [[GitHub]](https://github.com/jacobpfau/fillertokens)
-    [[HuggingFace]](https://huggingface.co/papers/2404.15758)
-    [[YouTube]](https://www.youtube.com/watch?v=AIR9QduDqD8)
-
-4. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
-    [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
-    [[arXiv]](https://arxiv.org/abs/2310.05707)
-    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
-    [[Github]](https://github.com/WANGXinyiLinda/planning_tokens)
-
-5. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
-    [[arXiv]](https://arxiv.org/abs/2505.13308v1)
-    [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
-    [[Github]](https://github.com/bigai-nlco/LatentSeek)
-    [[HuggingFace]](https://huggingface.co/papers/2505.13308)
 
 
-6. 2025_ACL_DIT_Learning to Insert [PAUSE] Tokens for Better Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2506.03616)
-    [[Github]](https://github.com/xfactlab/acl2025-dit)
-
-
-#### 3.2.2 Multi-Type Signal
-
-1. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+3. 2024_COLM_Quiet-STaR_Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
     [[CoLM--OpenReview]](https://openreview.net/forum?id=oRXPiSOGH9#discussion)
     [[arXiv]](https://arxiv.org/abs/2403.09629)
     [[Github]](https://github.com/ezelikman/quiet-star)
     [[HuggingFace]](https://huggingface.co/papers/2403.09629)
     [[YouTube]](https://www.youtube.com/watch?v=I78o3_lxXaQ)
 
+   
+4. 2024_CoLM_FillerTokens_Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.
+    [[CoLM--OpenReview]](https://openreview.net/forum?id=NikbrdtYvG#discussion)
+    [[arXiv]](https://arxiv.org/abs/2404.15758)
+    [[GitHub]](https://github.com/jacobpfau/fillertokens)
+    [[HuggingFace]](https://huggingface.co/papers/2404.15758)
+    [[YouTube]](https://www.youtube.com/watch?v=AIR9QduDqD8)
 
-2. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
+
+5. 2024_CoLM_planning-tokens_Guiding Language Model Reasoning with Planning Tokens.
+    [[CoLM--OpenReview]](https://openreview.net/forum?id=wi9IffRhVM)
+    [[arXiv]](https://arxiv.org/abs/2310.05707)
+    [[Microsoft]](https://www.microsoft.com/en-us/research/publication/guiding-language-model-reasoning-with-planning-tokens/)
+    [[Github]](https://github.com/WANGXinyiLinda/planning_tokens)
+
+
+6. 2025_arXiv_LatentSeek_Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space.
+    [[arXiv]](https://arxiv.org/abs/2505.13308v1)
+    [[HomePage]](https://bigai-nlco.github.io/LatentSeek/)
+    [[Github]](https://github.com/bigai-nlco/LatentSeek)
+    [[HuggingFace]](https://huggingface.co/papers/2505.13308)
+
+
+7. 2025_ACL_DIT_Learning to Insert [PAUSE] Tokens for Better Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2506.03616)
+    [[Github]](https://github.com/xfactlab/acl2025-dit)
+
+
+#### 3.2.2 Multi-Type Signal
+
+1. 2025_ACL_Memory-Reasoning_Disentangling-Memory-and-Reasoning-Ability-in-Large-Language-Models.
     [[arXiv]](https://arxiv.org/abs/2411.13504)
     [[Github]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
-3. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
+2. 2025_arXiv_Thinkless_Thinkless: LLM Learns When to Think.
     [[arXiv]](https://arxiv.org/abs/2505.13379)
     [[Github]](https://github.com/VainF/Thinkless)
     
