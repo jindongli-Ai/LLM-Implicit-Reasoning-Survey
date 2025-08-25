@@ -458,11 +458,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/tengxiaoliu/LM_skip)
     [[HuggingFace]](https://huggingface.co/papers/2411.01855)
    
-3. 2024_arXiv_TTT_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2412.01113)
-    [[GitHub]](https://github.com/keitokudo/TTT)
-   
-4. 2024_NeurIPS_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
+3. 2024_NeurIPS_Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.
     [[ICML Workshop--OpenReview]](https://openreview.net/forum?id=ns8IH5Sn5y)
     [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ad217e0c7fecc71bdf48660ad6714b07-Abstract-Conference.html)
     [[arXiv]](https://arxiv.org/abs/2405.15071)
@@ -484,32 +480,36 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[Github]](https://github.com/yifan-h/mechanisticprobe)
     [[HuggingFace]](https://huggingface.co/papers/2310.14491)
 
-2. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
+2. 2024_arXiv_TTT_Think-to-Talk or Talk-to-Think: When LLMs Come Up with an Answer in Multi-Step Arithmetic Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2412.01113)
+    [[GitHub]](https://github.com/keitokudo/TTT)
+
+3. 2024_arXiv_Do LLMs Really Think Step-by-Step in Implicit Reasoning.
     [[arXiv]](https://arxiv.org/abs/2411.15862)
     [[GitHub]](https://github.com/yuyijiong/if_step_by_step_implicit_cot)
 
-3. 2024_arXiv_Distributional Reasoning_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
+4. 2024_arXiv_Distributional Reasoning_Distributional Reasoning in LLMs: Parallel Reasoning Processes in Multi-Hop Reasoning.
     [[arXiv]](https://arxiv.org/abs/2406.13858)
     [[YouTube 1]](https://www.youtube.com/watch?v=tFcz-aTBqG0)
     [[YouTbue 2]](https://www.youtube.com/watch?v=SNw-Gh1LRFQ)
    
-4. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
+5. 2024_ACL_Do Large Language Models Latently Perform Multi-Hop Reasoning.
     [[ACL]](https://aclanthology.org/2024.acl-long.550/)
     [[arXiv]](https://arxiv.org/abs/2402.16837)
     [[Github]](https://github.com/google-deepmind/latent-multi-hop-reasoning)
     [[HuggingFace]](https://huggingface.co/datasets/soheeyang/TwoHopFact)
    
-5. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
+6. 2024_ACL_A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task.
     [[ACL]](https://aclanthology.org/2024.findings-acl.242/)
     [[arXiv]](https://arxiv.org/abs/2402.11917v3)
     [[GitHub]](https://github.com/abhay-sheshadri/backward-chaining-circuits)
     [[HuggingFace]](https://huggingface.co/papers/2402.11917)
    
-6. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
+7. 2025_ICLR Workshop_Uncovering Latent Chain of Thought Vectors in Large Language Models.
     [[ICLR Workshop]](https://iclr.cc/virtual/2025/33087)
     [[arXiv]](https://arxiv.org/abs/2409.14026)
    
-7. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
+8. 2025_ICLR_CoE_Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation.
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28606)
     [[arXiv]](https://arxiv.org/abs/2410.13640)
     [[Github]](https://github.com/Alsace08/Chain-of-Embedding)
