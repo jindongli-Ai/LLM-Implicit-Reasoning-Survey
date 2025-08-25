@@ -246,7 +246,7 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
 
 
 
-#### 3.1.3 State-Level
+#### 3.1.3 Internal-State-Level
 
 1. 2023_arXiv_ICoT-KD_Implicit Chain of Thought Reasoning via Knowledge Distillation.
     [[arXiv]](https://arxiv.org/abs/2311.01460)
