@@ -147,55 +147,55 @@ The official GitHub page for the survey paper "A Survey on LLM Implicit Reasonin
     [[arXiv]](https://arxiv.org/abs/2412.13171)
     [[HuggingFace]](https://huggingface.co/papers/2412.13171)
 
-2. 2024_arXiv_ICoT-SI_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
-    [[arXiv]](https://arxiv.org/abs/2405.14838)
-    [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
-    [[HuggingFace]](https://huggingface.co/papers/2405.14838)
-    [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
-    [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
-
-3. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
+2. 2024_arXiv_HCoT_Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding.
     [[arXiv]](https://arxiv.org/abs/2409.08561)
     [[HuggingFace]](https://huggingface.co/papers/2409.08561)
 
-4. 2024_arxiv_LaTRO_Unlocking Latent Reasoning Capabilities via Self-Rewarding.
+3. 2024_arxiv_LaTRO_Unlocking Latent Reasoning Capabilities via Self-Rewarding.
     [[arXiv]](https://arxiv.org/abs/2411.04282)
     [[Github]](https://github.com/SalesforceAIResearch/LaTRO)
     [[HuggingFace]](https://huggingface.co/papers/2411.04282)
 
-5. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
+4. 2025_arXiv_CoT-Valve_CoT-Valve: Length-Compressible Chain-of-Thought Tuning.
     [[arXiv]](https://arxiv.org/abs/2502.09601)
     [[Code--Github]](https://github.com/horseee/CoT-Valve)
     [[HuggingFace]](https://huggingface.co/papers/2502.09601)
 
-6. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
+5. 2025_arXiv_CODI_CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.
     [[arXiv]](https://arxiv.org/abs/2502.21074)
     [[GitHub]](https://github.com/zhenyi4/codi)
     [[HuggingFace]](https://huggingface.co/papers/2502.21074)
 
-7. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
+6. 2025_arXiv_Heima_Efficient Reasoning with Hidden Thinking.
     [[arXiv]](https://arxiv.org/abs/2501.19201)
     [[Code--Github]](https://github.com/shawnricecake/Heima)
     [[HuggingFace]](https://huggingface.co/papers/2501.19201)
     [[YouTube]](https://www.youtube.com/watch?v=VYhjbzN_CGw)
 
-8. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
+7. 2025_arXiv_LightThinker_LightThinker: Thinking Step-by-Step Compression.
     [[arXiv]](https://arxiv.org/abs/2502.15589)
     [[Code--Github]](https://github.com/zjunlp/LightThinker)
     [[HuggingFace]](https://huggingface.co/papers/2502.15589)
     [[YouTube]](https://www.youtube.com/watch?v=NRVBkNMnG2k)
 
-9. 2025_arXiv_CoLaR_Think-Silently-Think-Fast=Dynamic-Latent-Compression-of-LLM-Reasoning-Chains.
+8. 2025_arXiv_CoLaR_Think-Silently-Think-Fast=Dynamic-Latent-Compression-of-LLM-Reasoning-Chains.
    [[arXiv]](https://arxiv.org/abs/2505.16552)
    [[Homepage]](https://colar-latent-reasoning.github.io/)
    [[Github]](https://github.com/xiaomi-research/colar)
 
-10. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
+9. 2024_arXiv_Coconut_Training Large Language Models to Reason in a Continuous Latent Space.
     [[ICLR]](https://iclr.cc/virtual/2025/32772)
     [[arXiv]](https://arxiv.org/abs/2412.06769)
     [[Github]](https://github.com/facebookresearch/coconut)
     [[HuggingFace]](https://huggingface.co/papers/2412.06769)
     [[YouTube]](https://www.youtube.com/watch?v=mhKC3Avqy2E)
+
+10. 2024_arXiv_ICoT-SI_From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.
+    [[arXiv]](https://arxiv.org/abs/2405.14838)
+    [[Github]](https://github.com/sanowl/From-Explicit-CoT-to-Implicit-CoT-Learning-to-Internalize-CoT-Step-by-Step)
+    [[HuggingFace]](https://huggingface.co/papers/2405.14838)
+    [[YouTube]](https://www.youtube.com/live/llNI3mhg6BI)
+    [[Bilibili]](https://www.bilibili.com/video/BV1WZ421M7sD/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
 11. 2025_arXiv_PonderingLM_Pretraining Language Models to Ponder in Continuous Space.
     [[arXiv]](https://arxiv.org/abs/2505.20674)
